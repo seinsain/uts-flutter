@@ -1,6 +1,7 @@
 # flutter_application_3
 
-A new Flutter project.
+Project Sederhana
+file dart ada di lib
 
 ## Getting Started
 
